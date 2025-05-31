@@ -14,7 +14,7 @@ A Java-based Student Management System that provides CRUD operations for managin
 - Command-line interface for easy interaction
 
 ## Project Structure
-'''bash
+
 C:\Users\yugas\Downloads\project1\
 ├── src\
 │   ├── com\
