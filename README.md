@@ -14,3 +14,31 @@ A Java-based Student Management System that provides CRUD operations for managin
 - Command-line interface for easy interaction
 
 ## Project Structure
+C:\Users\yugas\Downloads\project1\
+├── src\
+│   ├── com\
+│   │   └── example\
+│   │       ├── Main.java
+│   │       ├── model\
+│   │       │   └── Student.java
+│   │       └── service\
+│   │           └── StudentService.java
+└── out\ 
+
+## Requirements
+
+- Java Development Kit (JDK) 8 or higher
+- Command-line interface for running the application
+
+## How to Run
+
+1. Open a terminal or command prompt and navigate to the project root directory.
+
+2. Compile the Java files:
+
+   ```bash
+   javac src/com/example/model/Student.java src/com/example/service/StudentService.java src/com/example/Main.java
+
+3. Run the application:
+   ```bash
+   java -cp src com.example.Main
